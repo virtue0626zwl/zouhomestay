@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<!-- log4j -->
+	<settings>
+		<setting name="logImpl" value="LOG4J"/>
+	</settings>
+	<!-- 懒加载 -->
+	
+	<!-- 别名 
+	<typeAliases>
+		<typeAlias alias="AccountPo" type="com.project.entitys.AccountPo"/>
+		<typeAlias alias="GoodsPo" type="com.project.entitys.GoodsPO"/>
+	</typeAliases> -->
+	
+	
+	
+</configuration>
