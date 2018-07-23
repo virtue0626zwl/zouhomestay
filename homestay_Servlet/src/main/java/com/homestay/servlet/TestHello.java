@@ -15,6 +15,7 @@ public class TestHello {
 		System.out.println("名侦探柯南");
 		System.out.println("海贼王");
 		System.out.println("test");
+		System.out.println("haha ");
 	
 	}
 }
